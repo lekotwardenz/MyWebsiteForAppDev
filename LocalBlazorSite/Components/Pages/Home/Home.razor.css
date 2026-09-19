@@ -1,0 +1,320 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #222222; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.canvas-container {
+    width: 1080px;
+    height: 1300px;
+    background: linear-gradient(to bottom, #000000, #33184F);
+    position: relative;
+    overflow: hidden;
+    margin: 0 auto; 
+}
+
+/* --- New Pattern Overlay --- */
+.pattern-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 1080px;
+    height: 611px; /* Locked to exact dimensions */
+    z-index: 1; 
+    pointer-events: none; 
+}
+
+.pattern-image {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+    object-position: bottom center; 
+    animation: fadeIn 1.5s ease-in-out forwards; 
+}
+/* -------------------------- */
+
+.header-section {
+    width: 1080px;
+    height: 642px;
+    position: absolute; 
+    top: 0;
+    left: 0;
+    overflow: hidden; 
+    z-index: 2; 
+}
+
+.top-header-image {
+    width: 1080px;
+    height: 642px;
+    display: block;
+    object-fit: cover;
+    object-position: center top; 
+    animation: fadeIn 1.5s ease-in-out forwards; 
+}
+
+.gradient-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1080px;
+    height: 642px;
+    background: linear-gradient(
+        to bottom,
+        rgba(26, 12, 40, 0.20) 0%,   
+        rgba(26, 12, 40, 0.30) 50%,  
+        rgba(26, 12, 40, 0.70) 69%,  
+        rgba(25, 11, 39, 1.00) 89%,  
+        rgba(25, 11, 39, 1.00) 100%  
+    );
+    pointer-events: none;
+}
+
+/* --- Navigation Bar --- */
+.navbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 40px;
+    box-sizing: border-box;
+    z-index: 10; 
+    animation: fadeIn 1.5s ease-in-out forwards; 
+}
+
+.nav-brand {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.logo-container {
+    width: 44px;
+    height: 33px;
+}
+
+.logo-image {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: contain;
+}
+
+.brand-separator {
+    width: 2px;
+    height: 24px;
+    background-color: #ffffff;
+    opacity: 0.6;
+}
+
+.brand-title {
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    color: #ffffff;
+    letter-spacing: 1px;
+}
+
+.nav-links {
+    display: flex;
+    gap: 40px;
+}
+
+.nav-links a {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400; 
+    font-size: 14px;
+    color: #ffffff;
+    text-decoration: none;
+    transition: opacity 0.2s ease;
+}
+
+.nav-links a:hover {
+    opacity: 0.7;
+}
+
+.nav-links a.active {
+    text-decoration: underline;
+    text-underline-offset: 6px;
+}
+
+/* --- Title Card --- */
+.title-card-container {
+    position: absolute;
+    top: 40%; 
+    left: 50%;
+    width: 561px;
+    height: 210px;
+    z-index: 5; 
+    animation: slideDownFade 1.2s ease-out forwards; 
+}
+
+.title-card-image {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: contain;
+    transition: transform 0.3s ease-in-out; 
+}
+
+.title-card-container:hover .title-card-image {
+    transform: scale(1.10); 
+    cursor: pointer; 
+}
+
+/* --- Load Animations --- */
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes slideDownFade {
+    0% {
+        opacity: 0;
+        transform: translate(-50%, -120%);
+    }
+    100% {
+        opacity: 1;
+        transform: translate(-50%, -50%); 
+    }
+}
+
+/* --- Characters Section --- */
+/* --- Characters Section --- */
+.characters-section {
+    position: absolute;
+    top: 500px; 
+    left: 0;
+    width: 1080px;
+    height: 750px;
+    z-index: 4; 
+}
+
+.char-box {
+    position: absolute; 
+    opacity: 0;
+    /* Uses the new drop animation, set strictly to ease-out */
+    animation: dropInFade 0.8s ease-out forwards;
+}
+
+.char-box img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: contain; 
+}
+
+/* Box 1 (Left Gradient) */
+.box-1 {
+    width: 130px;
+    height: 620px;
+    z-index: 1;
+    left: 0; 
+    top: 5px;
+    animation-delay: 0.6s; /* Starts first */
+}
+
+/* Box 2 (Undertale) */
+.box-2 {
+    width: 319.46px;
+    height: 716.32px;
+    z-index: 4; 
+    left: 150px; 
+    top: 17px;
+    animation-delay: 0.8s; /* 0.2s after Box 1 */
+}
+
+/* Box 3 (Spider-Man) */
+.box-3 {
+    width: 380.53px;
+    height: 720.2px;
+    z-index: 3;
+    left: 480px; 
+    top: -60px; 
+    animation-delay: 1.0s; /* 0.2s after Box 2 */
+}
+
+.box-3 img {
+    transform: scale(1.3); 
+    transform-origin: center center; 
+    transition: transform 0.3s ease-out; 
+}
+
+/* Box 4 (Minecraft) */
+.box-4 {
+    width: 370.37px;
+    height: 675.69px;
+    z-index: 2;
+    right: 25px; 
+    top: 90px;
+    animation-delay: 1.2s; /* 0.2s after Box 3 */
+}
+
+/* Box 5 (Right Gradient) */
+.box-5 {
+    width: 118px;
+    height: 620px;
+    z-index: 1;
+    right: 0; 
+    top: 5px;
+    animation-delay: 1.4s; /* 0.2s after Box 4 */
+}
+
+/* --- Load Animations --- */
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+@keyframes slideDownFade {
+    0% {
+        opacity: 0;
+        transform: translate(-50%, -120%);
+    }
+    100% {
+        opacity: 1;
+        transform: translate(-50%, -50%); 
+    }
+}
+
+/* New animation specifically for the character boxes */
+@keyframes dropInFade {
+    0% {
+        opacity: 0;
+        transform: translateY(-80px); /* Starts 80px higher than its designated top coordinate */
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0); /* Settles exactly into its designated top coordinate */
+    }
+}
+
+.box-2 img, .box-4 img {
+    transition: transform 0.3s ease-out; 
+}
+
+
+/* --- Hover States --- */
+
+/* Enlarges Undertale and Minecraft by 5% */
+.box-2:hover img, .box-4:hover img {
+    transform: scale(1.10); 
+    cursor: pointer;
+}
+
+/* Enlarges Spider-Man from his base 1.3 up to 1.35 */
+.box-3:hover img {
+    transform: scale(1.45); 
+    cursor: pointer;
+}

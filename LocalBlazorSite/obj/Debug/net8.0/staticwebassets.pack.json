@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LocalBlazorSite.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LocalBlazorSite.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\images\\GradientPattern.png",
+      "PackagePath": "staticwebassets\\images\\GradientPattern.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\images\\Photo1.png",
+      "PackagePath": "staticwebassets\\images\\Photo1.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\images\\Photo2.png",
+      "PackagePath": "staticwebassets\\images\\Photo2.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\images\\Photo3.png",
+      "PackagePath": "staticwebassets\\images\\Photo3.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LocalBlazorSite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LocalBlazorSite.props",
+      "PackagePath": "build\\LocalBlazorSite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LocalBlazorSite.props",
+      "PackagePath": "buildMultiTargeting\\LocalBlazorSite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LocalBlazorSite.props",
+      "PackagePath": "buildTransitive\\LocalBlazorSite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
