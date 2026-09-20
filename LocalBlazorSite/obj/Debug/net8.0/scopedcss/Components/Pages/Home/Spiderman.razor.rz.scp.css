@@ -1,0 +1,319 @@
+/* --- Base Container Details --- */
+body[b-rey463tcwz] {
+    margin: 0;
+    padding: 0;
+    background-color: #222222; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.canvas-container[b-rey463tcwz] {
+    width: 1080px;
+    height: 1300px;
+    background: linear-gradient(to bottom, #000000, #33184F);
+    position: relative;
+    overflow: hidden;
+    margin: 0 auto; 
+}
+
+/* --- Navigation & Pattern (Carried over) --- */
+.pattern-overlay[b-rey463tcwz] {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 1080px;
+    height: 611px; 
+    z-index: 1; 
+    pointer-events: none; 
+}
+
+.pattern-image[b-rey463tcwz] {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+    object-position: bottom center; 
+}
+
+.navbar[b-rey463tcwz] {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 40px;
+    box-sizing: border-box;
+    z-index: 10; 
+}
+
+.nav-brand[b-rey463tcwz] {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.logo-container[b-rey463tcwz] {
+    width: 44px;
+    height: 33px;
+}
+
+.logo-image[b-rey463tcwz] {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: contain;
+}
+
+.brand-separator[b-rey463tcwz] {
+    width: 2px;
+    height: 24px;
+    background-color: #ffffff;
+    opacity: 0.6;
+}
+
+.brand-title[b-rey463tcwz] {
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    color: #ffffff;
+    letter-spacing: 1px;
+}
+
+.nav-links[b-rey463tcwz] {
+    display: flex;
+    gap: 40px;
+}
+
+.nav-links a[b-rey463tcwz] {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400; 
+    font-size: 14px;
+    color: #ffffff;
+    text-decoration: none;
+    transition: opacity 0.2s ease;
+}
+
+.nav-links a:hover[b-rey463tcwz] {
+    opacity: 0.7;
+}
+
+/* --- Page 2 Content Layout --- */
+.page-content[b-rey463tcwz] {
+    position: relative;
+    z-index: 5; 
+    width: 100%;
+    padding-top: 100px; /* Provides clearance below the absolute navbar */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* --- Banner --- */
+.banner-container[b-rey463tcwz] {
+    width: 859px;
+    height: 327.93px;
+    border-radius: 50px;
+    overflow: hidden;
+    margin-bottom: 40px;
+}
+
+.banner-image[b-rey463tcwz] {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+}
+
+/* --- Story Summary Container --- */
+.story-container[b-rey463tcwz] {
+    position: relative;
+    width: 863px;
+    height: 376px;
+    display: flex;
+    margin-bottom: 50px;
+}
+
+/* Creates the 1px #69006B outline that perfectly overlays both the image and the gradient box */
+.story-container[b-rey463tcwz]::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 1px solid #69006B;
+    box-sizing: border-box;
+    pointer-events: none; 
+}
+
+.story-img-wrapper[b-rey463tcwz] {
+    width: 237px;
+    height: 375px; 
+    flex-shrink: 0;
+}
+
+.story-img-wrapper img[b-rey463tcwz] {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+}
+
+.story-text-section[b-rey463tcwz] {
+    flex-grow: 1;
+    background: linear-gradient(to right, rgba(232, 4, 228, 0.20), rgba(75, 0, 73, 0.20));
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    
+    /* --- New Scroll Properties --- */
+    overflow-y: auto; 
+    max-height: 100%; 
+}
+
+/* --- Custom Scrollbar Styling (Optional but recommended) --- */
+.story-text-section[b-rey463tcwz]::-webkit-scrollbar {
+    width: 8px;
+}
+
+.story-text-section[b-rey463tcwz]::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.2); 
+    border-radius: 4px;
+}
+
+.story-text-section[b-rey463tcwz]::-webkit-scrollbar-thumb {
+    background: #69006B; /* Matches your outline stroke color */
+    border-radius: 4px;
+}
+
+.story-text-section[b-rey463tcwz]::-webkit-scrollbar-thumb:hover {
+    background: #FF5A79; /* Highlights pink when hovering over the scrollbar */
+}
+
+.story-title[b-rey463tcwz] {
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #FFFFFF;
+    margin: 0 0 15px 0;
+}
+
+.story-text[b-rey463tcwz] {
+    font-family: 'Inter', sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    color: #FFFFFF;
+    line-height: 1.5;
+    margin: 0;
+}
+
+/* --- Gameplay Overview --- */
+.gameplay-section[b-rey463tcwz] {
+    width: 863px;
+    font-family: 'Inter', sans-serif;
+    color: #FFFFFF;
+}
+
+.gameplay-header[b-rey463tcwz] {
+    font-size: 16px;
+    font-weight: 700;
+    margin: 0 0 20px 0;
+    text-transform: uppercase;
+}
+
+.gameplay-grid[b-rey463tcwz] {
+    display: flex;
+    justify-content: space-between;
+}
+
+.gameplay-card[b-rey463tcwz] {
+    width: 254px;
+    display: flex;
+    flex-direction: column;
+}
+
+.gameplay-card-title[b-rey463tcwz] {
+    font-size: 12px;
+    font-weight: 700;
+    color: #FF5A79; 
+    margin: 0 0 10px 0;
+}
+
+.gameplay-card-img[b-rey463tcwz] {
+    width: 254px;
+    height: 143px;
+    display: block;
+    object-fit: cover;
+    margin-bottom: 12px;
+}
+
+.gameplay-card-text[b-rey463tcwz] {
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 0;
+}
+
+/* --- Animation Keyframes --- */
+@keyframes slideDownFade-b-rey463tcwz {
+    0% {
+        opacity: 0;
+        transform: translateY(-40px); /* Starts 40px above its final position */
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes simpleFadeIn-b-rey463tcwz {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+/* --- Applying Animations to Containers --- */
+
+/* Banner: Drops down and fades in immediately */
+.banner-container[b-rey463tcwz] {
+    animation: slideDownFade-b-rey463tcwz 0.8s ease-out forwards;
+}
+
+/* Story Summary: Simple fade in, slightly delayed so the banner leads */
+.story-container[b-rey463tcwz] {
+    opacity: 0; /* Keeps it hidden before the animation starts */
+    animation: simpleFadeIn-b-rey463tcwz 1s ease-out 0.3s forwards;
+}
+
+/* Gameplay Header: Optional fade in to match the section */
+.gameplay-header[b-rey463tcwz] {
+    opacity: 0;
+    animation: simpleFadeIn-b-rey463tcwz 0.8s ease-out 0.5s forwards;
+}
+
+/* Gameplay Cards: Base animation setup */
+.gameplay-card[b-rey463tcwz] {
+    opacity: 0; /* Keeps them hidden until their specific delay hits */
+    animation: slideDownFade-b-rey463tcwz 0.6s ease-out forwards;
+}
+
+/* Staggered sequential loading for the 3 cards using nth-child */
+.gameplay-card:nth-child(1)[b-rey463tcwz] {
+    animation-delay: 0.6s;
+}
+
+.gameplay-card:nth-child(2)[b-rey463tcwz] {
+    animation-delay: 0.8s;
+}
+
+.gameplay-card:nth-child(3)[b-rey463tcwz] {
+    animation-delay: 1.0s;
+}

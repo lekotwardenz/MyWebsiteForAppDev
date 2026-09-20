@@ -46,3 +46,7 @@ build_metadata.AdditionalFiles.CssScope = b-5kl9go3jvt
 [C:/Users/leish/Documents/Coding/DENSINGG/LocalBlazorSite/Components/Pages/Home/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lXEhvbWUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-vdlfstqplq
+
+[C:/Users/leish/Documents/Coding/DENSINGG/LocalBlazorSite/Components/Pages/Home/Spiderman.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lXFNwaWRlcm1hbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-rey463tcwz
