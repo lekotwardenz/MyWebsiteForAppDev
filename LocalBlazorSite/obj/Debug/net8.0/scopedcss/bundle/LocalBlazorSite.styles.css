@@ -1,4 +1,4 @@
-/* /Components/Layout/MainLayout.razor.rz.scp.css */
+/* _content/LocalBlazorSite/Components/Layout/MainLayout.razor.rz.scp.css */
 page[b-g046b30jm1] {
     display: block;
     width: 100vw;
@@ -11,8 +11,8 @@ main[b-g046b30jm1] {
     width: 100%;
     height: 100%;
 }
-/* /Components/Layout/NavMenu.razor.rz.scp.css */
-/* /Components/Pages/Home/Home.razor.rz.scp.css */
+/* _content/LocalBlazorSite/Components/Layout/NavMenu.razor.rz.scp.css */
+/* _content/LocalBlazorSite/Components/Pages/Home/Home.razor.rz.scp.css */
 body[b-vdlfstqplq] {
     margin: 0;
     padding: 0;
@@ -333,7 +333,7 @@ body[b-vdlfstqplq] {
     transform: scale(1.45); 
     cursor: pointer;
 }
-/* /Components/Pages/Home/Spiderman.razor.rz.scp.css */
+/* _content/LocalBlazorSite/Components/Pages/Home/Spiderman.razor.rz.scp.css */
 /* --- Base Container Details --- */
 body[b-rey463tcwz] {
     margin: 0;

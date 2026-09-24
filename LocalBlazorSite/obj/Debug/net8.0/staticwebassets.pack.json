@@ -17,12 +17,24 @@
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\css\\input.css",
+      "PackagePath": "staticwebassets\\css\\input.css"
+    },
+    {
       "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\images\\GradientPattern.png",
-      "PackagePath": "staticwebassets\\images\\GradientPattern.png"
+      "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\images\\Box1.png",
+      "PackagePath": "staticwebassets\\images\\Box1.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\images\\Box2.png",
+      "PackagePath": "staticwebassets\\images\\Box2.png"
     },
     {
       "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\images\\Photo1.png",
@@ -35,6 +47,42 @@
     {
       "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\images\\Photo3.png",
       "PackagePath": "staticwebassets\\images\\Photo3.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\images\\gadget-img.png",
+      "PackagePath": "staticwebassets\\images\\gadget-img.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\images\\gradient-pattern.png",
+      "PackagePath": "staticwebassets\\images\\gradient-pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\images\\horizon-background-img.png",
+      "PackagePath": "staticwebassets\\images\\horizon-background-img.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\images\\horizon-title-card.png",
+      "PackagePath": "staticwebassets\\images\\horizon-title-card.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\images\\overview-img.png",
+      "PackagePath": "staticwebassets\\images\\overview-img.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\images\\spiderman-banner.png",
+      "PackagePath": "staticwebassets\\images\\spiderman-banner.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\images\\stealth-img.png",
+      "PackagePath": "staticwebassets\\images\\stealth-img.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\images\\swing-img.png",
+      "PackagePath": "staticwebassets\\images\\swing-img.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LocalBlazorSite.Microsoft.AspNetCore.StaticWebAssets.props",

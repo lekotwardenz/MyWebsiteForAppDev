@@ -129,3 +129,7 @@ C:\Users\leish\Documents\Coding\DENSINGG\LocalBlazorSite\obj\Debug\net8.0\refint
 C:\Users\leish\Documents\Coding\DENSINGG\LocalBlazorSite\obj\Debug\net8.0\LocalBlazorSite.pdb
 C:\Users\leish\Documents\Coding\DENSINGG\LocalBlazorSite\obj\Debug\net8.0\LocalBlazorSite.genruntimeconfig.cache
 C:\Users\leish\Documents\Coding\DENSINGG\LocalBlazorSite\obj\Debug\net8.0\ref\LocalBlazorSite.dll
+C:\Users\L23Y16W18\Documents\Website\LocalBlazorSite\obj\Debug\net8.0\LocalBlazorSite.sourcelink.json
+C:\Users\L23Y16W18\Documents\Website\LocalBlazorSite\obj\Debug\net8.0\scopedcss\Components\Pages\Home\Spiderman.razor.rz.scp.css
+C:\Users\L23Y16W18\Documents\Website\LocalBlazorSite\bin\Debug\net8.0\package-lock.json
+C:\Users\L23Y16W18\Documents\Website\LocalBlazorSite\bin\Debug\net8.0\package.json
