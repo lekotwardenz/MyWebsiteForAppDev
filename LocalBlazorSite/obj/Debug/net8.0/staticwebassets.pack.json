@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets\\css\\input.css"
     },
     {
+      "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
       "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
@@ -83,6 +87,26 @@
     {
       "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\images\\swing-img.png",
       "PackagePath": "staticwebassets\\images\\swing-img.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\images\\undeale-summary.png",
+      "PackagePath": "staticwebassets\\images\\undeale-summary.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\images\\undertale-banner.png",
+      "PackagePath": "staticwebassets\\images\\undertale-banner.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\images\\undertale-cozy.png",
+      "PackagePath": "staticwebassets\\images\\undertale-cozy.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\images\\undetale-combat.png",
+      "PackagePath": "staticwebassets\\images\\undetale-combat.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Documents\\Website\\LocalBlazorSite\\wwwroot\\images\\undetale-ending.png",
+      "PackagePath": "staticwebassets\\images\\undetale-ending.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LocalBlazorSite.Microsoft.AspNetCore.StaticWebAssets.props",

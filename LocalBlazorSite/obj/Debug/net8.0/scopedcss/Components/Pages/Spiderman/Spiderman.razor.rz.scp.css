@@ -1,5 +1,5 @@
 /* --- Base Container Details --- */
-body[b-rey463tcwz] {
+body[b-luchgkqzvf] {
     margin: 0;
     padding: 0;
     background-color: #222222; 
@@ -9,7 +9,7 @@ body[b-rey463tcwz] {
     min-height: 100vh;
 }
 
-.canvas-container[b-rey463tcwz] {
+.canvas-container[b-luchgkqzvf] {
     width: 1080px;
     height: 1300px;
     background: linear-gradient(to bottom, #000000, #33184F);
@@ -19,7 +19,7 @@ body[b-rey463tcwz] {
 }
 
 /* --- Navigation & Pattern (Carried over) --- */
-.pattern-overlay[b-rey463tcwz] {
+.pattern-overlay[b-luchgkqzvf] {
     position: absolute;
     bottom: 0;
     left: 0;
@@ -29,7 +29,7 @@ body[b-rey463tcwz] {
     pointer-events: none; 
 }
 
-.pattern-image[b-rey463tcwz] {
+.pattern-image[b-luchgkqzvf] {
     width: 100%;
     height: 100%;
     display: block;
@@ -37,7 +37,7 @@ body[b-rey463tcwz] {
     object-position: bottom center; 
 }
 
-.navbar[b-rey463tcwz] {
+.navbar[b-luchgkqzvf] {
     position: absolute;
     top: 0;
     left: 0;
@@ -50,32 +50,32 @@ body[b-rey463tcwz] {
     z-index: 10; 
 }
 
-.nav-brand[b-rey463tcwz] {
+.nav-brand[b-luchgkqzvf] {
     display: flex;
     align-items: center;
     gap: 15px;
 }
 
-.logo-container[b-rey463tcwz] {
+.logo-container[b-luchgkqzvf] {
     width: 44px;
     height: 33px;
 }
 
-.logo-image[b-rey463tcwz] {
+.logo-image[b-luchgkqzvf] {
     width: 100%;
     height: 100%;
     display: block;
     object-fit: contain;
 }
 
-.brand-separator[b-rey463tcwz] {
+.brand-separator[b-luchgkqzvf] {
     width: 2px;
     height: 24px;
     background-color: #ffffff;
     opacity: 0.6;
 }
 
-.brand-title[b-rey463tcwz] {
+.brand-title[b-luchgkqzvf] {
     font-family: 'Inter', sans-serif;
     font-size: 16px;
     font-weight: 700;
@@ -83,12 +83,12 @@ body[b-rey463tcwz] {
     letter-spacing: 1px;
 }
 
-.nav-links[b-rey463tcwz] {
+.nav-links[b-luchgkqzvf] {
     display: flex;
     gap: 40px;
 }
 
-.nav-links a[b-rey463tcwz] {
+.nav-links a[b-luchgkqzvf] {
     font-family: 'Inter', sans-serif;
     font-weight: 400; 
     font-size: 14px;
@@ -97,12 +97,12 @@ body[b-rey463tcwz] {
     transition: opacity 0.2s ease;
 }
 
-.nav-links a:hover[b-rey463tcwz] {
+.nav-links a:hover[b-luchgkqzvf] {
     opacity: 0.7;
 }
 
 /* --- Page 2 Content Layout --- */
-.page-content[b-rey463tcwz] {
+.page-content[b-luchgkqzvf] {
     position: relative;
     z-index: 5; 
     width: 100%;
@@ -113,7 +113,7 @@ body[b-rey463tcwz] {
 }
 
 /* --- Banner --- */
-.banner-container[b-rey463tcwz] {
+.banner-container[b-luchgkqzvf] {
     width: 859px;
     height: 327.93px;
     border-radius: 50px;
@@ -121,7 +121,7 @@ body[b-rey463tcwz] {
     margin-bottom: 40px;
 }
 
-.banner-image[b-rey463tcwz] {
+.banner-image[b-luchgkqzvf] {
     width: 100%;
     height: 100%;
     display: block;
@@ -129,7 +129,7 @@ body[b-rey463tcwz] {
 }
 
 /* --- Story Summary Container --- */
-.story-container[b-rey463tcwz] {
+.story-container[b-luchgkqzvf] {
     position: relative;
     width: 863px;
     height: 376px;
@@ -138,7 +138,7 @@ body[b-rey463tcwz] {
 }
 
 /* Creates the 1px #69006B outline that perfectly overlays both the image and the gradient box */
-.story-container[b-rey463tcwz]::after {
+.story-container[b-luchgkqzvf]::after {
     content: '';
     position: absolute;
     top: 0;
@@ -150,20 +150,20 @@ body[b-rey463tcwz] {
     pointer-events: none; 
 }
 
-.story-img-wrapper[b-rey463tcwz] {
+.story-img-wrapper[b-luchgkqzvf] {
     width: 237px;
     height: 375px; 
     flex-shrink: 0;
 }
 
-.story-img-wrapper img[b-rey463tcwz] {
+.story-img-wrapper img[b-luchgkqzvf] {
     width: 100%;
     height: 100%;
     display: block;
     object-fit: cover;
 }
 
-.story-text-section[b-rey463tcwz] {
+.story-text-section[b-luchgkqzvf] {
     flex-grow: 1;
     background: linear-gradient(to right, rgba(232, 4, 228, 0.20), rgba(75, 0, 73, 0.20));
     padding: 30px;
@@ -177,25 +177,25 @@ body[b-rey463tcwz] {
 }
 
 /* --- Custom Scrollbar Styling (Optional but recommended) --- */
-.story-text-section[b-rey463tcwz]::-webkit-scrollbar {
+.story-text-section[b-luchgkqzvf]::-webkit-scrollbar {
     width: 8px;
 }
 
-.story-text-section[b-rey463tcwz]::-webkit-scrollbar-track {
+.story-text-section[b-luchgkqzvf]::-webkit-scrollbar-track {
     background: rgba(0, 0, 0, 0.2); 
     border-radius: 4px;
 }
 
-.story-text-section[b-rey463tcwz]::-webkit-scrollbar-thumb {
+.story-text-section[b-luchgkqzvf]::-webkit-scrollbar-thumb {
     background: #69006B; /* Matches your outline stroke color */
     border-radius: 4px;
 }
 
-.story-text-section[b-rey463tcwz]::-webkit-scrollbar-thumb:hover {
+.story-text-section[b-luchgkqzvf]::-webkit-scrollbar-thumb:hover {
     background: #FF5A79; /* Highlights pink when hovering over the scrollbar */
 }
 
-.story-title[b-rey463tcwz] {
+.story-title[b-luchgkqzvf] {
     font-family: 'Inter', sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -203,7 +203,7 @@ body[b-rey463tcwz] {
     margin: 0 0 15px 0;
 }
 
-.story-text[b-rey463tcwz] {
+.story-text[b-luchgkqzvf] {
     font-family: 'Inter', sans-serif;
     font-size: 10px;
     font-weight: 400;
@@ -213,38 +213,38 @@ body[b-rey463tcwz] {
 }
 
 /* --- Gameplay Overview --- */
-.gameplay-section[b-rey463tcwz] {
+.gameplay-section[b-luchgkqzvf] {
     width: 863px;
     font-family: 'Inter', sans-serif;
     color: #FFFFFF;
 }
 
-.gameplay-header[b-rey463tcwz] {
+.gameplay-header[b-luchgkqzvf] {
     font-size: 16px;
     font-weight: 700;
     margin: 0 0 20px 0;
     text-transform: uppercase;
 }
 
-.gameplay-grid[b-rey463tcwz] {
+.gameplay-grid[b-luchgkqzvf] {
     display: flex;
     justify-content: space-between;
 }
 
-.gameplay-card[b-rey463tcwz] {
+.gameplay-card[b-luchgkqzvf] {
     width: 254px;
     display: flex;
     flex-direction: column;
 }
 
-.gameplay-card-title[b-rey463tcwz] {
+.gameplay-card-title[b-luchgkqzvf] {
     font-size: 12px;
     font-weight: 700;
     color: #FF5A79; 
     margin: 0 0 10px 0;
 }
 
-.gameplay-card-img[b-rey463tcwz] {
+.gameplay-card-img[b-luchgkqzvf] {
     width: 254px;
     height: 143px;
     display: block;
@@ -252,7 +252,7 @@ body[b-rey463tcwz] {
     margin-bottom: 12px;
 }
 
-.gameplay-card-text[b-rey463tcwz] {
+.gameplay-card-text[b-luchgkqzvf] {
     font-size: 10px;
     font-weight: 400;
     line-height: 1.5;
@@ -260,7 +260,7 @@ body[b-rey463tcwz] {
 }
 
 /* --- Animation Keyframes --- */
-@keyframes slideDownFade-b-rey463tcwz {
+@keyframes slideDownFade-b-luchgkqzvf {
     0% {
         opacity: 0;
         transform: translateY(-40px); /* Starts 40px above its final position */
@@ -271,7 +271,7 @@ body[b-rey463tcwz] {
     }
 }
 
-@keyframes simpleFadeIn-b-rey463tcwz {
+@keyframes simpleFadeIn-b-luchgkqzvf {
     0% {
         opacity: 0;
     }
@@ -283,37 +283,37 @@ body[b-rey463tcwz] {
 /* --- Applying Animations to Containers --- */
 
 /* Banner: Drops down and fades in immediately */
-.banner-container[b-rey463tcwz] {
-    animation: slideDownFade-b-rey463tcwz 0.8s ease-out forwards;
+.banner-container[b-luchgkqzvf] {
+    animation: slideDownFade-b-luchgkqzvf 0.8s ease-out forwards;
 }
 
 /* Story Summary: Simple fade in, slightly delayed so the banner leads */
-.story-container[b-rey463tcwz] {
+.story-container[b-luchgkqzvf] {
     opacity: 0; /* Keeps it hidden before the animation starts */
-    animation: simpleFadeIn-b-rey463tcwz 1s ease-out 0.3s forwards;
+    animation: simpleFadeIn-b-luchgkqzvf 1s ease-out 0.3s forwards;
 }
 
 /* Gameplay Header: Optional fade in to match the section */
-.gameplay-header[b-rey463tcwz] {
+.gameplay-header[b-luchgkqzvf] {
     opacity: 0;
-    animation: simpleFadeIn-b-rey463tcwz 0.8s ease-out 0.5s forwards;
+    animation: simpleFadeIn-b-luchgkqzvf 0.8s ease-out 0.5s forwards;
 }
 
 /* Gameplay Cards: Base animation setup */
-.gameplay-card[b-rey463tcwz] {
+.gameplay-card[b-luchgkqzvf] {
     opacity: 0; /* Keeps them hidden until their specific delay hits */
-    animation: slideDownFade-b-rey463tcwz 0.6s ease-out forwards;
+    animation: slideDownFade-b-luchgkqzvf 0.6s ease-out forwards;
 }
 
 /* Staggered sequential loading for the 3 cards using nth-child */
-.gameplay-card:nth-child(1)[b-rey463tcwz] {
+.gameplay-card:nth-child(1)[b-luchgkqzvf] {
     animation-delay: 0.6s;
 }
 
-.gameplay-card:nth-child(2)[b-rey463tcwz] {
+.gameplay-card:nth-child(2)[b-luchgkqzvf] {
     animation-delay: 0.8s;
 }
 
-.gameplay-card:nth-child(3)[b-rey463tcwz] {
+.gameplay-card:nth-child(3)[b-luchgkqzvf] {
     animation-delay: 1.0s;
 }

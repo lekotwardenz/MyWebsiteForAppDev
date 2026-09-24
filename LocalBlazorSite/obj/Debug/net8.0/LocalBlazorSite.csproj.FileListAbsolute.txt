@@ -130,6 +130,6 @@ C:\Users\leish\Documents\Coding\DENSINGG\LocalBlazorSite\obj\Debug\net8.0\LocalB
 C:\Users\leish\Documents\Coding\DENSINGG\LocalBlazorSite\obj\Debug\net8.0\LocalBlazorSite.genruntimeconfig.cache
 C:\Users\leish\Documents\Coding\DENSINGG\LocalBlazorSite\obj\Debug\net8.0\ref\LocalBlazorSite.dll
 C:\Users\L23Y16W18\Documents\Website\LocalBlazorSite\obj\Debug\net8.0\LocalBlazorSite.sourcelink.json
-C:\Users\L23Y16W18\Documents\Website\LocalBlazorSite\obj\Debug\net8.0\scopedcss\Components\Pages\Home\Spiderman.razor.rz.scp.css
 C:\Users\L23Y16W18\Documents\Website\LocalBlazorSite\bin\Debug\net8.0\package-lock.json
 C:\Users\L23Y16W18\Documents\Website\LocalBlazorSite\bin\Debug\net8.0\package.json
+C:\Users\L23Y16W18\Documents\Website\LocalBlazorSite\obj\Debug\net8.0\scopedcss\Components\Pages\Spiderman\Spiderman.razor.rz.scp.css
