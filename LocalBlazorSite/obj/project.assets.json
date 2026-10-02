@@ -45,19 +45,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\leish\\.nuget\\packages\\": {}
+    "C:\\nuget_packages": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leish\\Documents\\Coding\\AppDev\\LocalBlazorSite\\LocalBlazorSite.csproj",
+      "projectUniqueName": "F:\\webdev\\densing\\MyWebsiteForAppDev\\LocalBlazorSite\\LocalBlazorSite.csproj",
       "projectName": "LocalBlazorSite",
-      "projectPath": "C:\\Users\\leish\\Documents\\Coding\\AppDev\\LocalBlazorSite\\LocalBlazorSite.csproj",
-      "packagesPath": "C:\\Users\\leish\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leish\\Documents\\Coding\\AppDev\\LocalBlazorSite\\obj\\",
+      "projectPath": "F:\\webdev\\densing\\MyWebsiteForAppDev\\LocalBlazorSite\\LocalBlazorSite.csproj",
+      "packagesPath": "C:\\nuget_packages",
+      "outputPath": "F:\\webdev\\densing\\MyWebsiteForAppDev\\LocalBlazorSite\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\leish\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\AlleahIDelaPe�a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -65,6 +70,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
