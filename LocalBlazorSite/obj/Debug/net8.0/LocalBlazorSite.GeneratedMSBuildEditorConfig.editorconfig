@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LocalBlazorSite
+build_property.RootNamespace = LocalBlazorSite
+build_property.ProjectDir = C:\Users\L23Y16W18\Downloads\MyWebsiteForAppDev-main\MyWebsiteForAppDev-main\LocalBlazorSite\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\L23Y16W18\Downloads\MyWebsiteForAppDev-main\MyWebsiteForAppDev-main\LocalBlazorSite
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/L23Y16W18/Downloads/MyWebsiteForAppDev-main/MyWebsiteForAppDev-main/LocalBlazorSite/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/L23Y16W18/Downloads/MyWebsiteForAppDev-main/MyWebsiteForAppDev-main/LocalBlazorSite/Components/Pages/CommentandRate/CommentandRate.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb21tZW50YW5kUmF0ZVxDb21tZW50YW5kUmF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/L23Y16W18/Downloads/MyWebsiteForAppDev-main/MyWebsiteForAppDev-main/LocalBlazorSite/Components/Pages/Undertale/Undertale.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xVbmRlcnRhbGVcVW5kZXJ0YWxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/L23Y16W18/Downloads/MyWebsiteForAppDev-main/MyWebsiteForAppDev-main/LocalBlazorSite/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/L23Y16W18/Downloads/MyWebsiteForAppDev-main/MyWebsiteForAppDev-main/LocalBlazorSite/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/L23Y16W18/Downloads/MyWebsiteForAppDev-main/MyWebsiteForAppDev-main/LocalBlazorSite/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-g046b30jm1
+
+[C:/Users/L23Y16W18/Downloads/MyWebsiteForAppDev-main/MyWebsiteForAppDev-main/LocalBlazorSite/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-5kl9go3jvt
+
+[C:/Users/L23Y16W18/Downloads/MyWebsiteForAppDev-main/MyWebsiteForAppDev-main/LocalBlazorSite/Components/Layout/ReconnectModal.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcUmVjb25uZWN0TW9kYWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-1sw6a5t5o6
+
+[C:/Users/L23Y16W18/Downloads/MyWebsiteForAppDev-main/MyWebsiteForAppDev-main/LocalBlazorSite/Components/Pages/Home/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lXEhvbWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-vdlfstqplq
+
+[C:/Users/L23Y16W18/Downloads/MyWebsiteForAppDev-main/MyWebsiteForAppDev-main/LocalBlazorSite/Components/Pages/Spiderman/Spiderman.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTcGlkZXJtYW5cU3BpZGVybWFuLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-luchgkqzvf

@@ -1,0 +1,309 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\Components\\Layout\\ReconnectModal.razor.js",
+      "PackagePath": "staticwebassets\\Components\\Layout\\ReconnectModal.razor.js"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LocalBlazorSite.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LocalBlazorSite.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\css\\input.css",
+      "PackagePath": "staticwebassets\\css\\input.css"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\images\\Box1.png",
+      "PackagePath": "staticwebassets\\images\\Box1.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\images\\Box2.png",
+      "PackagePath": "staticwebassets\\images\\Box2.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\images\\Photo1.png",
+      "PackagePath": "staticwebassets\\images\\Photo1.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\images\\Photo2.png",
+      "PackagePath": "staticwebassets\\images\\Photo2.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\images\\Photo3.png",
+      "PackagePath": "staticwebassets\\images\\Photo3.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\images\\gadget-img.png",
+      "PackagePath": "staticwebassets\\images\\gadget-img.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\images\\gradient-pattern.png",
+      "PackagePath": "staticwebassets\\images\\gradient-pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\images\\horizon-background-img.png",
+      "PackagePath": "staticwebassets\\images\\horizon-background-img.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\images\\horizon-title-card.png",
+      "PackagePath": "staticwebassets\\images\\horizon-title-card.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\images\\overview-img.png",
+      "PackagePath": "staticwebassets\\images\\overview-img.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\images\\spiderman-banner.png",
+      "PackagePath": "staticwebassets\\images\\spiderman-banner.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\images\\stealth-img.png",
+      "PackagePath": "staticwebassets\\images\\stealth-img.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\images\\swing-img.png",
+      "PackagePath": "staticwebassets\\images\\swing-img.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\images\\undeale-summary.png",
+      "PackagePath": "staticwebassets\\images\\undeale-summary.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\images\\undertale-banner.png",
+      "PackagePath": "staticwebassets\\images\\undertale-banner.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\images\\undertale-cozy.png",
+      "PackagePath": "staticwebassets\\images\\undertale-cozy.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\images\\undetale-combat.png",
+      "PackagePath": "staticwebassets\\images\\undetale-combat.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\images\\undetale-ending.png",
+      "PackagePath": "staticwebassets\\images\\undetale-ending.png"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\L23Y16W18\\Downloads\\MyWebsiteForAppDev-main\\MyWebsiteForAppDev-main\\LocalBlazorSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LocalBlazorSite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LocalBlazorSite.props",
+      "PackagePath": "build\\LocalBlazorSite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LocalBlazorSite.props",
+      "PackagePath": "buildMultiTargeting\\LocalBlazorSite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LocalBlazorSite.props",
+      "PackagePath": "buildTransitive\\LocalBlazorSite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
