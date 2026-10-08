@@ -30,3 +30,4 @@ C:\Users\L23Y16W18\Downloads\MyWebsiteForAppDev-main\MyWebsiteForAppDev-main\Loc
 C:\Users\L23Y16W18\Downloads\MyWebsiteForAppDev-main\MyWebsiteForAppDev-main\LocalBlazorSite\obj\Debug\net8.0\LocalBlazorSite.pdb
 C:\Users\L23Y16W18\Downloads\MyWebsiteForAppDev-main\MyWebsiteForAppDev-main\LocalBlazorSite\obj\Debug\net8.0\LocalBlazorSite.genruntimeconfig.cache
 C:\Users\L23Y16W18\Downloads\MyWebsiteForAppDev-main\MyWebsiteForAppDev-main\LocalBlazorSite\obj\Debug\net8.0\ref\LocalBlazorSite.dll
+C:\Users\L23Y16W18\Downloads\MyWebsiteForAppDev-main\MyWebsiteForAppDev-main\LocalBlazorSite\obj\Debug\net8.0\LocalBlazorSite.sourcelink.json
